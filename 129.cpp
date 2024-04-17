@@ -1,4 +1,4 @@
-// Leetcode daily 15.4.2024
+// Daily 15.4.2024
 // 129. Sum Root to Leaf Numbers
 // https://leetcode.com/problems/sum-root-to-leaf-numbers/submissions/1233075556/
 
